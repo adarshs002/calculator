@@ -24,6 +24,11 @@ button {
   height: 323px;
   padding-top: 17px;
 }
+
 #equal {
   background-color: blue;
+}
+
+.calculator #c {
+  width: 155px;
 }
