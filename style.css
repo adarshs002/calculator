@@ -8,13 +8,22 @@ input {
   border: 2px solid black;
   border-radius: 12px;
   font-size: 30px;
+  height: 45px;
 }
 button {
   font-size: 30px;
   border-radius: 15px;
   width: 77px;
   height: 50px;
+  background-color: rgb(233 208 208);
 }
 .calculator {
   display: inline-block;
+  background-color: rgb(94 90 90);
+  border-radius: 25px;
+  height: 323px;
+  padding-top: 17px;
+}
+#equal {
+  background-color: blue;
 }
