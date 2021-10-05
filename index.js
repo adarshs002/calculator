@@ -4,9 +4,6 @@ let screenValue = "";
 for(item of buttons){
     item.addEventListener('click',e=>{
         buttonText = e.target.innerText;
-        
-        
-
         if(buttonText == "C")      {
             screenValue = ' ';
             screen.value = screenValue;
